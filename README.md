@@ -3,8 +3,9 @@
 Based on the position on the earth the program can calculate
 
 * The position of the sun over the day and year
-* The angle of the sun relative to the **solar collector** (arbitrary angle) over the day and year
-* optimizing the angle of the solar collector
+* The angle of the sun relative to the **solar panels** (arbitrary angle) over the day and year
+* Optimizing the angle of the solar panel
+* Calculating the expected energy captured by the solar panels
 
 
 ## Usage
